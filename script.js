@@ -3,102 +3,362 @@
 const timeData = [
 	{
 		id: 1,
+		title: "Denmark Flag",
+		category: "Flags",
+		date: "1625",
+		description: "",
+		img: "flags/denmark.png",
+	},
+
+	{
+		id: 2,
+		title: "Netherlands Flag",
+		category: "Flags",
+		date: "1660",
+		description: "",
+		img: "flags/netherlands.png",
+	},
+
+	{
+		id: 3,
+		title: "United Kingdom (UK) Flag",
+		category: "Flags",
+		date: "1 January 1801",
+		description: "",
+		img: "flags/uk.png",
+	},
+
+	{
+		id: 4,
+		title: "Argentina Flag",
+		category: "Flags",
+		date: "27 February 1812",
+		description: "",
+		img: "flags/argentina.png",
+	},
+
+	{
+		id: 5,
+		title: "Chile Flag",
+		category: "Flags",
+		date: "18 October 1817",
+		description: "",
+		img: "flags/chile.png",
+	},
+
+	{
+		id: 6,
+		title: "Peru Flag",
+		category: "Flags",
+		date: "1825",
+		description: "",
+		img: "flags/peru.png",
+	},
+
+	{
+		id: 7,
+		title: "Uruguay Flag",
+		category: "Flags",
+		date: "1828",
+		description: "",
+		img: "flags/uruguay.png",
+	},
+
+	{
+		id: 8,
+		title: "France Flag",
+		category: "Flags",
+		date: "1830",
+		description: "",
+		img: "flags/france.webp",
+	},
+
+	{
+		id: 9,
+		title: "Tunisia Flag",
+		category: "Flags",
+		date: "1831",
+		description: "",
+		img: "flags/tunisia.png",
+	},
+
+	{
+		id: 10,
+		title: "Belgium Flag",
+		category: "Flags",
+		date: "1831",
+		description: "",
+		img: "flags/belgium.png",
+	},
+
+	{
+		id: 11,
+		title: "Paraguay Flag",
+		category: "Flags",
+		date: "1842",
+		description: "",
+		img: "flags/paraguay.png",
+	},
+
+	{
+		id: 12,
+		title: "Turkey Flag",
+		category: "Flags",
+		date: "1844",
+		description: "",
+		img: "flags/turkey.png",
+	},
+
+	{
+		id: 13,
+		title: "Liberia Flag",
+		category: "Flags",
+		date: "1847",
+		description: "",
+		img: "flags/liberia.png",
+	},
+
+	{
+		id: 14,
+		title: "Costa Rica Flag",
+		category: "Flags",
+		date: "1848",
+		description: "",
+		img: "flags/costa-rica.png",
+	},
+
+	{
+		id: 15,
+		title: "Bolivia Flag",
+		category: "Flags",
+		date: "1851",
+		description: "",
+		img: "flags/bolivia.png",
+	},
+
+	{
+		id: 16,
 		title: "Ecuador Flag",
 		category: "Flags",
-		date: "1900",
+		date: "1860",
 		description: "",
-		img: "flags/ecuador-1900.png",
+		img: "flags/ecuador.png",
 	},
 
 	{
-		id: 1,
-		title: "Iceland Flag",
+		id: 17,
+		title: "San Marino Flag",
 		category: "Flags",
-		date: "1900",
+		date: "1862",
 		description: "",
-		img: "flags/iceland-1900.png",
+		img: "flags/san-marino.png",
 	},
 
 	{
-		id: 1,
-		title: "Mauritania Flag",
+		id: 18,
+		title: "Honduras Flag",
 		category: "Flags",
-		date: "1900",
+		date: "1866",
 		description: "",
-		img: "flags/mauritania-1900.png",
+		img: "flags/honduras.png",
 	},
 
 	{
-		id: 1,
-		title: "Samoa Flag",
+		id: 19,
+		title: "Japan Flag",
 		category: "Flags",
-		date: "1900",
+		date: "1870",
 		description: "",
-		img: "flags/samoa-1900.png",
+		img: "flags/japan.png",
 	},
 
 	{
-		id: 1,
-		title: "Nigeria Flag",
+		id: 20,
+		title: "Guatemala Flag",
 		category: "Flags",
-		date: "1900",
+		date: "1871",
 		description: "",
-		img: "flags/nigeria-1900.png",
+		img: "flags/guatemala.png",
 	},
 
-
 	{
-		id: 1,
-		title: "Afghanistan Flag",
+		id: 21,
+		title: "Tonga Flag",
 		category: "Flags",
-		date: "1901",
+		date: "1875",
 		description: "",
-		img: "flags/afg-1901.png",
+		img: "flags/tonga.png",
 	},
 
 	{
-		id: 1,
-		title: "Australia Flag",
+		id: 22,
+		title: "Monaco Flag",
 		category: "Flags",
-		date: "1901",
+		date: "1881",
 		description: "",
-		img: "flags/australia-1901.png",
+		img: "flags/monaco.png",
 	},
 
 	{
-		id: 1,
+		id: 23,
+		title: "South Korea Flag",
+		category: "Flags",
+		date: "1883",
+		description: "",
+		img: "flags/south-korea.png",
+	},
+
+	{
+		id: 24,
+		title: "Switzerland Flag",
+		category: "Flags",
+		date: "1889",
+		description: "",
+		img: "flags/switzerland.png",
+	},
+
+	{
+		id: 25,
 		title: "Philippines Flag",
 		category: "Flags",
-		date: "1901",
+		date: "12 February 1898",
 		description: "",
-		img: "flags/philippines-1901.png",
+		img: "flags/philippines.png",
 	},
 
 	{
-		id: 1,
-		title: "Albania Flag",
+		id: 26,
+		title: "Norway Flag",
 		category: "Flags",
-		date: "1902",
+		date: "1899",
 		description: "",
-		img: "flags/albania-1902.png",
+		img: "flags/norway.png",
 	},
 
 	{
-		id: 1,
+		id: 27,
+		title: "Australia Flag",
+		category: "Flags",
+		date: "3 September 1901",
+		description: "",
+		img: "flags/australia.png",
+	},
+
+	{
+		id: 28,
 		title: "Cuba Flag",
 		category: "Flags",
 		date: "1902",
 		description: "",
-		img: "flags/cuba-1902.png",
+		img: "flags/cuba.png",
 	},
 
 	{
-		id: 1,
-		title: "Saudi Arabia Flag",
+		id: 29,
+		title: "New Zealand Flag",
 		category: "Flags",
 		date: "1902",
 		description: "",
-		img: "flags/saudi-1902.png",
+		img: "flags/new-zealand.png",
+	},
+
+	{
+		id: 30,
+		title: "Sweden Flag",
+		category: "Flags",
+		date: "1906",
+		description: "",
+		img: "flags/sweden.png",
+	},
+
+	{
+		id: 31,
+		title: "Dominican Republic Flag",
+		category: "Flags",
+		date: "1908",
+		description: "",
+		img: "flags/dominican-republic.png",
+	},
+
+	{
+		id: 32,
+		title: "Portugal Flag",
+		category: "Flags",
+		date: "1911",
+		description: "",
+		img: "flags/portugal.png",
+	},
+
+	{
+		id: 33,
+		title: "Albania Flag",
+		category: "Flags",
+		date: "1912",
+		description: "",
+		img: "flags/albania.png",
+	},
+
+	{
+		id: 34,
+		title: "El Salvador Flag",
+		category: "Flags",
+		date: "17 May 1912",
+		description: "",
+		img: "flags/el-salvador.png",
+	},
+
+	{
+		id: 35,
+		title: "Morocco Flag",
+		category: "Flags",
+		date: "1915",
+		description: "",
+		img: "flags/morocco.png",
+	},
+
+	{
+		id: 36,
+		title: "Thailand Flag",
+		category: "Flags",
+		date: "1917",
+		description: "",
+		img: "flags/thailand.png",
+	},
+
+	{
+		id: 37,
+		title: "Austria Flag",
+		category: "Flags",
+		date: "1918",
+		description: "",
+		img: "flags/austria.png",
+	},
+
+	{
+		id: 38,
+		title: "Estonia Flag",
+		category: "Flags",
+		date: "1918",
+		description: "",
+		img: "flags/estonia.png",
+	},
+
+	{
+		id: 39,
+		title: "Finland Flag",
+		category: "Flags",
+		date: "1918",
+		description: "",
+		img: "flags/finland.png",
+	},
+
+	{
+		id: 40,
+		title: "Germany Flag",
+		category: "Flags",
+		date: "1918",
+		description: "",
+		img: "flags/germany.png",
 	},
 
 	{
@@ -220,6 +480,7 @@ const timeData = [
 ]
 
 const timelineBox = document.querySelector('.timeline-box')
+const linksEL = document.querySelectorAll('li a')
 
 window.addEventListener('DOMContentLoaded',()=>{
 	displayTimelineData(timeData);
@@ -231,12 +492,29 @@ window.addEventListener('DOMContentLoaded',()=>{
 			button.classList.add('pressed');
 		});
 	});
-})
+});
+
+linksEL.forEach((links) => {
+	links.addEventListener('click', (e) => {
+		const category = e.target.dataset.id;
+		const timeCategory = timeData.filter(function(data) {
+			if (data.category === category) {
+				return data;
+			}
+		});
+		if (category === 'All') {
+			displayTimelineData(timeData);
+		}
+		else {
+			displayTimelineData(timeCategory);
+		}
+	});
+});
 
 
 function displayTimelineData(entries){
 	let displayData = entries.map(function(cat_items){
-		return `<div class="content-box">	
+		return `<div class="content-box" id=${cat_items.id}>	
 					<div class="date">
 						<i class='bxr  bx-calendar-alt'  ></i> 
 						${cat_items.date}
@@ -248,6 +526,4 @@ function displayTimelineData(entries){
 	})
 
 	displayData = displayData.join("");
-	timelineBox.innerHTML = displayData;
-}
-
+	timelineBox.innerHTML
