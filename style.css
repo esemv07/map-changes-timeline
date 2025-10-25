@@ -180,6 +180,17 @@ hr {
 }
 .logo {
 	display: flex;
+	align-items: center;
+}
+.logo h3 {
+	font-size: 2rem;
+	margin-left: 0.5rem;
+	font-weight: 600;
+}
+.logo img {
+	width: 20%;
+	object-fit: cover;
+	margin-left: 25px;
 }
 
 

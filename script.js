@@ -526,4 +526,6 @@ function displayTimelineData(entries){
 	})
 
 	displayData = displayData.join("");
-	timelineBox.innerHTML
+	timelineBox.innerHTML = displayData;
+}
+
