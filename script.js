@@ -362,7 +362,79 @@ const timeData = [
 	},
 
 	{
-		id: 1,
+		id: 41,
+		title: "Ireland Flag",
+		category: "Flags",
+		date: "1919",
+		description: "",
+		img: "flags/ireland.png",
+	},
+
+	{
+		id: 42,
+		title: "Poland Flag",
+		category: "Flags",
+		date: "1919",
+		description: "",
+		img: "flags/poland.png",
+	},
+
+	{
+		id: 43,
+		title: "Latvia Flag",
+		category: "Flags",
+		date: "1921",
+		description: "",
+		img: "flags/latvia.png",
+	},
+
+	{
+		id: 44,
+		title: "Panama Flag",
+		category: "Flags",
+		date: "1925",
+		description: "",
+		img: "flags/panama.png",
+	},
+
+	{
+		id: 45,
+		title: "Jordan Flag",
+		category: "Flags",
+		date: "1928",
+		description: "",
+		img: "flags/jordan.png",
+	},
+
+	{
+		id: 46,
+		title: "Taiwan Flag",
+		category: "Flags",
+		date: "1928",
+		description: "",
+		img: "flags/taiwan.png",
+	},
+
+	{
+		id: 47,
+		title: "Vatican City Flag",
+		category: "Flags",
+		date: "1929",
+		description: "",
+		img: "flags/vatican.png",
+	},
+
+	{
+		id: 48,
+		title: "Liechtenstein Flag",
+		category: "Flags",
+		date: "1937",
+		description: "",
+		img: "flags/liechtenstein.png",
+	},
+
+	{
+		id: 49,
 		title: "Siam becomes Thailand",
 		category: "Countries",
 		date: "1939",
@@ -371,7 +443,7 @@ const timeData = [
 	},
 
 	{
-		id: 2,
+		id: 50,
 		title: "Estonian S.S.R. becomes Estonia",
 		category: "Countries",
 		date: "1940",
@@ -380,7 +452,7 @@ const timeData = [
 	},
 
 	{
-		id: 3,
+		id: 51,
 		title: "Latvian S.S.R. becomes Latvia",
 		category: "Countries",
 		date: "1940",
@@ -389,7 +461,7 @@ const timeData = [
 	},
 
 	{
-		id: 4,
+		id: 52,
 		title: "Lithuanian S.S.R. becomes Lithuania",
 		category: "Countries",
 		date: "1940",
@@ -398,7 +470,7 @@ const timeData = [
 	},
 
 	{
-		id: 5,
+		id: 53,
 		title: "Italian East Africa (pt.), Ethiopia becomes Ethiopia",
 		category: "Countries",
 		date: "1941",
@@ -407,7 +479,7 @@ const timeData = [
 	},
 
 	{
-		id: 6,
+		id: 54,
 		title: "Italian East Africa (pt.), Eritrea becomes Eritrea",
 		category: "Countries",
 		date: "1941",
@@ -416,7 +488,52 @@ const timeData = [
 	},
 
 	{
-		id: 7,
+		id: 55,
+		title: "Lebanon Flag",
+		category: "Flags",
+		date: "1943",
+		description: "",
+		img: "flags/lebanon.png",
+	},
+
+	{
+		id: 56,
+		title: "Italy Flag",
+		category: "Flags",
+		date: "1943",
+		description: "",
+		img: "flags/italy.png",
+	},
+
+	{
+		id: 57,
+		title: "Iceland Flag",
+		category: "Flags",
+		date: "1944",
+		description: "",
+		img: "flags/iceland.png",
+	},
+
+	{
+		id: 58,
+		title: "Indonesia Flag",
+		category: "Flags",
+		date: "1945",
+		description: "",
+		img: "flags/indonesia.png",
+	},
+
+	{
+		id: 59,
+		title: "Vietnam Flag",
+		category: "Flags",
+		date: "1945",
+		description: "",
+		img: "flags/vietnam.webp",
+	},
+
+	{
+		id: 60,
 		title: "Thailand becomes Siam",
 		category: "Countries",
 		date: "1945",
@@ -425,7 +542,7 @@ const timeData = [
 	},
 
 	{
-		id: 8,
+		id: 61,
 		title: "Chosen (Jap.) becomes Korea",
 		category: "Countries",
 		date: "1945",
@@ -434,7 +551,7 @@ const timeData = [
 	},
 
 	{
-		id: 9,
+		id: 62,
 		title: "Philippine Islands becomes Philippines",
 		category: "Countries",
 		date: "1946",
@@ -443,7 +560,7 @@ const timeData = [
 	},
 
 	{
-		id: 10,
+		id: 63,
 		title: "Trans Jordan becomes Jordan",
 		category: "Countries",
 		date: "1946",
@@ -452,7 +569,7 @@ const timeData = [
 	},
 
 	{
-		id: 11,
+		id: 64,
 		title: "Baluchistan becomes Pakistan",
 		category: "Countries",
 		date: "1947",
@@ -461,7 +578,43 @@ const timeData = [
 	},
 
 	{
-		id: 12,
+		id: 65,
+		title: "India Flag",
+		category: "Flags",
+		date: "24 July 1947",
+		description: "",
+		img: "flags/india.png",
+	},
+
+	{
+		id: 66,
+		title: "Pakistan Flag",
+		category: "Flags",
+		date: "11 August 1947",
+		description: "",
+		img: "flags/pakistan.png",
+	},
+
+	{
+		id: 67,
+		title: "North Korea Flag",
+		category: "Flags",
+		date: "July 1948",
+		description: "",
+		img: "flags/north-korea.png",
+	},
+
+	{
+		id: 68,
+		title: "Israel Flag",
+		category: "Flags",
+		date: "1948",
+		description: "",
+		img: "flags/israel.png",
+	},
+
+	{
+		id: 69,
 		title: "Ceylon becomes Sri Lanka",
 		category: "Countries",
 		date: "1948",
@@ -470,13 +623,95 @@ const timeData = [
 	},
 
 	{
-		id: 13,
+		id: 70,
 		title: "Palestine (pt.) becomes Israel",
 		category: "Countries",
 		date: "1948",
 		description: "",
 		img: "",
 	},
+
+	{
+		id: 71,
+		title: "Samoa Flag",
+		category: "Flags",
+		date: "1949",
+		description: "",
+		img: "flags/samoa.png",
+	},
+
+	{
+		id: 72,
+		title: "China Flag",
+		category: "Flags",
+		date: "1 October 1949",
+		description: "",
+		img: "flags/china.webp",
+	},
+
+	{
+		id: 73,
+		title: "French Indo-China becomes Vietnam",
+		category: "Countries",
+		date: "1949",
+		description: "",
+		img: "",
+	},
+
+	{
+		id: 74,
+		title: "Siam becomes Thailand",
+		category: "Countries",
+		date: "1949",
+		description: "",
+		img: "",
+	},
+
+	{
+		id: 75,
+		title: "French Indo-China becomes Laos",
+		category: "Countries",
+		date: "1949",
+		description: "",
+		img: "",
+	},
+
+	{
+		id: 76,
+		title: "Netherland Indies becomes Indonesia",
+		category: "Countries",
+		date: "1949",
+		description: "",
+		img: "",
+	},
+
+	{
+		id: 77,
+		title: "Germany becomes Germany, West",
+		category: "Countries",
+		date: "1949",
+		description: "",
+		img: "",
+	},
+
+	{
+		id: 78,
+		title: "Germany becomes Germany, East",
+		category: "Countries",
+		date: "1949",
+		description: "",
+		img: "",
+	},
+
+	{
+		id: 79,
+		title: "French Indo-China becomes Cambodia",
+		category: "Countries",
+		date: "1949",
+		description: "",
+		img: "",
+	},
+
 ]
 
 const timelineBox = document.querySelector('.timeline-box')
@@ -514,7 +749,7 @@ linksEL.forEach((links) => {
 
 function displayTimelineData(entries){
 	let displayData = entries.map(function(cat_items){
-		return `<div class="content-box" id=${cat_items.id}>	
+		return `<div class="content-box" id="${cat_items.id}">	
 					<div class="date">
 						<i class='bxr  bx-calendar-alt'  ></i> 
 						${cat_items.date}
@@ -527,5 +762,22 @@ function displayTimelineData(entries){
 
 	displayData = displayData.join("");
 	timelineBox.innerHTML = displayData;
+	console.log(displayData)
+}
+function scrollYears1600() {
+	document.getElementById("1").scrollIntoView()
 }
 
+function scrollYears1800() {
+	console.log("working")
+	const card = document.getElementById("10")
+	console.log(card)
+	if (card) {
+        card.scrollIntoView({
+            behavior: 'smooth', // Correct spelling
+            block: 'start'
+        });
+    } else {
+        console.log("Element with id '10' not found.");
+    }
+}
